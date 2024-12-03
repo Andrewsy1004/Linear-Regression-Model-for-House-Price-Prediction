@@ -1,6 +1,6 @@
 # Linear Regression Model for House Price Prediction
 
-This project demonstrates the use of a linear regression model to predict house prices based on various features like size, location, and number of rooms. The model is built using the **Boston Housing Dataset** and showcases how machine learning can be applied to real estate price estimation.
+This project demonstrates the application of linear regression to predict house prices based on various features such as size, location, and number of rooms. The model is trained on a dataset of historical house prices and evaluated for accuracy. Key steps include data preprocessing, feature selection, training the linear regression model, and assessing performance through metrics such as Mean Squared Error (MSE) and R-squared
 
 ## 🗂️ Data Source
 
